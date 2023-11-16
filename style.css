@@ -259,6 +259,20 @@
     padding: 8px;
   }
 
+  .form-input {
+    padding: 10px;
+  }
+
+  .btn-1 {
+    width: 100px;
+    height: 35px;
+    background-color: rgb(23, 189, 23);
+    color: white;
+    pad: 10px;
+    border: none;
+    cursor: pointer;
+  }
+
 
 
   /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
